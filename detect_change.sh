@@ -93,6 +93,7 @@ echo "<html>" >> /tmp/ede.html
 echo "<head>" >> /tmp/ede.html
 echo "<title>Monitoramento de Recursos</title>" >> /tmp/ede.html
 echo "<meta http-equiv='Content-Type' content='text/html;charset=utf-8'/>" >> /tmp/ede.html
+echo "</head>" >> /tmp/ede.html
 echo "<table width='100%' border='0' cellspacing='0' cellpadding='0' align='center'>" >> /tmp/ede.html
 echo "<br>" >> /tmp/ede.html
 echo "<!--Início do Título do Relatório-->" >> /tmp/ede.html
@@ -170,7 +171,6 @@ echo "</table>" >> /tmp/ede.html
 echo "<!--Final da Assinatura-->" >> /tmp/ede.html
 echo "<br>" >> /tmp/ede.html
 echo "</table>" >> /tmp/ede.html
-echo "</head>" >> /tmp/ede.html
 echo "<body>" >> /tmp/ede.html
 
 
